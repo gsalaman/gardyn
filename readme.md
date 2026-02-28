@@ -30,5 +30,7 @@ End of pod overhang is only 3mm from door...so I'll probably want to do some sor
 
 The one on the right should be fine.
 
+Top hex is gonna want to hang 7-8" from crosspiece.  On the left, it's another 4" lower.
+
 
 
