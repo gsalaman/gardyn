@@ -19,3 +19,16 @@ Top cross-piece screws into the gardyn brackets itself.
 Pod spacing:  8", or 4" between angled pods
 
 Metal brackets are 2.2mm wide.  Weird shape...they're about 0.5mm tall, with a "buldge".  Could take advantage of that to secure top cross piece.
+
+Bottom of bottom pod is 7mm from the base.  They're at an angle, so a little hard to measure, but I think it's 1" to the middle vertically.
+
+Base has ~16.7mm to the door.
+
+Door is an oval 14mm long and 7.5mm wide. 
+
+End of pod overhang is only 3mm from door...so I'll probably want to do some sort of "u" support at the bottom so that the middle trellis can move forward.
+
+The one on the right should be fine.
+
+
+
