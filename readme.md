@@ -18,11 +18,11 @@ Top cross-piece screws into the gardyn brackets itself.
 ##  Dimensions:
 Pod spacing:  8", or 4" between angled pods
 
-Metal brackets are 2.2mm wide.  Weird shape...they're about 0.5mm tall, with a "buldge".  Could take advantage of that to secure top cross piece.
+Metal brackets are 2.2cm wide.  Weird shape...they're about 5mm tall, with a "buldge".  Could take advantage of that to secure top cross piece.
 
-Bottom of bottom pod is 7mm from the base.  They're at an angle, so a little hard to measure, but I think it's 1" to the middle vertically.
+Bottom of bottom pod is 7cm from the base.  They're at an angle, so a little hard to measure, but I think it's 1" to the middle vertically.
 
-Base has ~16.7mm to the door.
+Base has ~16.7cm to the door.
 
 Door is an oval 14mm long and 7.5mm wide. 
 
