@@ -32,5 +32,7 @@ The one on the right should be fine.
 
 Top hex is gonna want to hang 7-8" from crosspiece.  On the left, it's another 4" lower.
 
+Didn't measure distance between brackets.  :(  Eyeball says is somewhere around 18" (the width of the moose head).  Maybe make this adjustable from 14" to 20"?
+
 
 
